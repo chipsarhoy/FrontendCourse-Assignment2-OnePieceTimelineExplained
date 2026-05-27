@@ -1,0 +1,33 @@
+html,
+body {
+  margin: 0px;
+}
+
+header {
+  background-color: #c6c59b;
+}
+nav {
+  text-align: center;
+}
+
+nav * {
+  display: inline-block;
+  color: #ff7f11;
+}
+
+nav h1 {
+  margin: 0px 300px;
+}
+
+nav a {
+  font-size: 30px;
+}
+
+main * {
+  display: inline-block;
+  background-color: #393d3f;
+}
+
+iframe {
+  box-shadow: inset 0px 0px 60px 0px #00005a;
+}
